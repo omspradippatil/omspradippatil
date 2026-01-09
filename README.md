@@ -1,4 +1,4 @@
-# I'm Om Patil
+                                  # I'm Om Patil
 <br>🔭 Currently working on Flutter apps, UI/UX projects, and SQL-based backends  <br>🌱 Learning Java, DCN, backend deployment, and system design  <br>🤝 Open to collaborating on practical web/app projects  <br>💬 Ask me about SQL, Supabase vs Firebase, AWS servers, Java , c/c++<br>⚡ Fun fact: I learn by breaking systems and fixing them
 
 
