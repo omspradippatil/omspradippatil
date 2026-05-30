@@ -1,12 +1,12 @@
-#                         I'm Om Patil
-<br>🔭 Currently working on app development, Flutter apps, UI/UX projects, and SQL-based backends  
-<br>🌱 Learning Flutter app development, Java, DCN, backend deployment, and system design  
-<br>🤝 Open to collaborating on practical web/app projects  
-<br>💬 Ask me about SQL, Linux, Supabase vs Firebase, AWS servers, Java, C/C++  
-<br>⚡ Fun fact: I learn by breaking systems and fixing them
+﻿#                         I'm Om Patil
+<br>ðŸ”­ Currently working on app development, Flutter apps, UI/UX projects, and SQL-based backends  
+<br>ðŸŒ± Learning Flutter app development, Java, DCN, backend deployment, and system design  
+<br>ðŸ¤ Open to collaborating on practical web/app projects  
+<br>ðŸ’¬ Ask me about SQL, Linux, Supabase vs Firebase, AWS servers, Java, C/C++  
+<br>âš¡ Fun fact: I learn by breaking systems and fixing them
 
 
-## 🌐 Socials:
+## ðŸŒ Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/omspradippatil) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omspradippatil) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/om-pradip-patil) 
@@ -15,7 +15,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omspradippatil@gmail.com) 
 
 
-# 💻 Tech Stack:
+# ðŸ’» Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
@@ -42,3 +42,8 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=omspradippatil&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## ☕ Support
+
+If you find this project helpful, consider [supporting me](https://ompradippatil.netlify.app/donate).
+
